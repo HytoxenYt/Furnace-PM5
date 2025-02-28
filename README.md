@@ -56,7 +56,7 @@ Ce plugin ajoute **deux commandes** permettant de cuire rapidement les items en 
 ### **⛏️ Minerais**
 - **Fer brut** → **Lingot de fer**
 - **Or brut** → **Lingot d'or**
-- **Débris antiques** → **Débris de Netherite**
+- **Cuivre brut** → **Lingot de cuivre**
 
 ### **🍖 Aliments**
 - **Pomme de terre** → **Pomme de terre cuite**
@@ -65,10 +65,6 @@ Ce plugin ajoute **deux commandes** permettant de cuire rapidement les items en 
 - **Poulet cru** → **Poulet cuit**
 - **Mouton cru** → **Mouton cuit**
 - **Saumon cru** → **Saumon cuit**
-- **Morue crue** → **Morue cuite**
-
-### **🧱 Blocs**
-- **Boules d'argile** → **Brique**
 
 📌 **D'autres items peuvent être ajoutés facilement !**
 
