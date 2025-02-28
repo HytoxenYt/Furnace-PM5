@@ -1,0 +1,11 @@
+name: Furnace
+main: Hytoxen\Main
+author: Hytoxen
+version: 1.0.0
+api: 5.0.0
+
+permissions:
+  furnace.use:
+    default: true
+  furnaceall.use:
+    default: op
