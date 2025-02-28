@@ -43,10 +43,10 @@ Ce plugin ajoute **deux commandes** permettant de cuire rapidement les items en 
 ---
 
 ## **🔑 Permissions**
-| Permission      | Description                        | Par défaut |
-|----------------|----------------------------------|------------|
-| `furnace.use`  | Permet d'utiliser `/furnace`     | ✅ Tout le monde |
-| `furnace.all`  | Permet d'utiliser `/furnaceall`  | ❌ OP uniquement |
+| Permission       | Description                        | Par défaut |
+|------------------|----------------------------------|------------|
+| `furnace.use`    | Permet d'utiliser `/furnace`     | ✅ Tout le monde |
+| `furnaceall.use` | Permet d'utiliser `/furnaceall`  | ❌ OP uniquement |
 
 👉 Pour accorder une permission, utilise **LuckPerms** ou une autre gestion de permissions.
 
